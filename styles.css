@@ -10,12 +10,10 @@ body {
 
     #bands{
       list-style-type:square;
-      padding: 0;
+      padding: 20px;
 		background-color:white;
     }
-#id1{
-	background-color:white;
-}
+
 
     li {
       font-size: 16px;
